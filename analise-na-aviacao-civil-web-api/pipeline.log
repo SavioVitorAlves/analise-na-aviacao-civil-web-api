@@ -483,3 +483,8 @@
 2026-04-27 20:19:28,577 - INFO - Transformação concluída: dados totalmente tratados.
 2026-04-27 20:19:29,230 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
 2026-04-27 20:19:29,231 - INFO - Pipeline concluído com sucesso.
+2026-04-27 20:27:45,917 - INFO - Iniciando pipeline ETL...
+2026-04-27 20:27:49,221 - INFO - Extração concluída com sucesso.
+2026-04-27 20:27:50,388 - INFO - Transformação concluída: dados totalmente tratados.
+2026-04-27 20:27:50,955 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-04-27 20:27:50,955 - INFO - Pipeline concluído com sucesso.
