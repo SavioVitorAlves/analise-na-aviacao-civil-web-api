@@ -7,7 +7,7 @@ O projeto consiste em um sistema inteligente que automatiza a coleta, tratamento
 ## 🚀 Funcionalidades Principais
 
 - **ETL Automatizado:** Extração, Transformação e Carga de dados diretamente do portal de Dados Abertos da ANAC.
-- **Pipeline Agendado:** O sistema executa o reprocessamento da base de dados diariamente às 21:00 de forma autônoma.
+- **Pipeline Agendado:** O sistema executa o reprocessamento da base de dados diariamente às 02:30 de forma autônoma.
 - **Inteligência Artificial:** Aplicação do algoritmo **K-Means** para clusterização de ocorrências e **PCA** para redução de dimensionalidade.
 - **API RESTful:** Disponibilização de endpoints para consumo de dados tratados, indicadores (KPIs) e resultados analíticos para o frontend.
 - **Monitoramento Espacial:** Filtro geoespacial (Bounding Box) para garantir a precisão dos dados dentro do território brasileiro.
@@ -51,6 +51,6 @@ Desenvolvido por:
 Sob a orientação de:
 
 - Orientador: Dr. Walisson Pereira de Sousa
-- Co-orientadora: Me. Sabrina Guimarães Paiva
+- Co-orientadora: Dra. Sabrina Guimarães Paiva
 
 Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO) - Campus Araguaína, 2026.
