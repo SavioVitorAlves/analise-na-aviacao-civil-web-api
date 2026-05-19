@@ -34,7 +34,7 @@ def read_root():
             elif cluster_id == 1:
                 nome_final = "Falhas Mecânicas / Motores"
             elif cluster_id == 2:
-                nome_final = "Operações em Pista (Pouso/Decolagem)"
+                nome_final = "Operações em Pista"
             else:
                 nome_final = "Eventos de Táxi Aéreo / Agrícola"
             

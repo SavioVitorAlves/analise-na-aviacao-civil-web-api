@@ -22,7 +22,7 @@ O projeto foi desenvolvido seguindo os princípios de **Clean Code** e **Arquite
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Python 3.x
+- **Linguagem:** Python 3.2
 - **Framework Web:** [FastAPI](https://fastapi.tiangolo.com/)
 - **Manipulação de Dados:** [Pandas](https://pandas.pydata.org/)
 - **Machine Learning:** [Scikit-Learn](https://scikit-learn.org/)

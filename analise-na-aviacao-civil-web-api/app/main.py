@@ -57,3 +57,5 @@ app.include_router(clusterPorRegiao.router)
 app.include_router(corelacaoVariaveisNumericas.router)
 app.include_router(ocorenciasRegiaoCluster.router)
 app.include_router(mapa.router)
+#comando para doda o sistema: uvicorn app.main:app --reload
+#usar o cd para entrar no diretorio caso nessesario 2 vezes
